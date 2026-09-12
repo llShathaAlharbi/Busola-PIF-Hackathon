@@ -12,7 +12,7 @@ Explore the interactive prototype directly in your browser, hosted on GitHub Pag
 
 - **Frontend:** HTML, CSS, and vanilla JavaScript, with Arabic/English interfaces, RTL/LTR layouts, light/dark modes, and an animated canvas background.
 - **3D visualization:** Three.js with an animated, Blender-authored semiconductor model and interactive component exploration.
-- **Decision simulator:** Client-side calculations comparing six sourcing and localization alternatives using editable assumptions.
+- **Decision simulator:** Client-side calculations comparing multiple sourcing and localization alternatives using editable assumptions.
 - **Aether (أثير):** An adviser with built-in demo responses. An optional Node.js AI gateway exists in the project but is not deployed on GitHub Pages.
 
 All demand, trade, localization, and scenario figures are illustrative demo data—not verified national statistics or investment recommendations.
